@@ -1,0 +1,41 @@
+#login .input-small
+{
+	width:50%;
+	height:13%;
+	border-radius: 8px;
+	outline:none;
+	padding:2px;
+	box-shadow: 1px 1px 4px #EBEBEB;
+}
+
+#login .input-small:focus
+{
+	border: 1px solid #000000;
+}
+
+#login .input-button
+{
+	background-color:#e6ecff;
+	color:#000000;
+	font-size:14px;
+	font-family:times new roman;
+	border:solid 1px;
+	border-color:#000000;
+	padding: 8px 15px 8px 15px;
+	margin-left: 30%;
+	box-shadow: 2px 2px grey;
+}
+
+#login input[type=button]:hover,
+#login input[type=submit]:hover
+{
+	background: #e6ecff;
+    color: #ffffff;
+}
+
+#login input[type=button]:active,
+#login input[type=submit]:active {
+  background-color: #e6ecff;
+  box-shadow: 2px 2px grey;
+  transform: translateY(4px);
+}

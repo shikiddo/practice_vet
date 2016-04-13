@@ -1,0 +1,21 @@
+#login .header-bold
+{
+	padding: 2%;
+	font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+
+#login .fp
+{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 8px;
+}
+
+#login a:hover
+{
+	color: red;
+}

@@ -1,0 +1,26 @@
+#container
+{
+	max-width: 80%;
+	margin: 10% 20%;
+    font: 13px Arial, Helvetica, sans-serif;
+}
+
+#login
+{
+	margin:10% 30%;
+	height: 40%;
+	border:solid 1px;
+	border-color:#000000;
+	box-shadow: 2px 2px 2px 2px grey;
+}
+
+.signin
+{
+	margin:10%;
+	width:100%;
+}
+
+.important
+{
+	display:inline;
+}
